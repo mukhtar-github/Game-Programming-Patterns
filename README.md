@@ -8,4 +8,6 @@ Fast-forward several years, and a friend hand me a book: *Design Patterns: Eleme
 
 In 2001, I landed my dream job: software engineer at Electronic Arts. I couldn't wait to get a look at some real games and see how the pros put them together. What was the architecture like for an enormous game like Madden Football? How did the different systemss interact? How did they get a single code base to run on multiple platforms?
 
-Cracking open the source code was a humbling and suprising experience. There was brilliant code in graphics, AI, animation and visual effects. We had people who knew how to squeeze every last circle out of a CPU and put it to good use. Stuff I didn't even know was *possible*, these people did before lunch."
+Cracking open the source code was a humbling and suprising experience. There was brilliant code in graphics, AI, animation and visual effects. We had people who knew how to squeeze every last circle out of a CPU and put it to good use. Stuff I didn't even know was *possible*, these people did before lunch.
+
+But the *architecture* this brilliant code hung from was often an afterthought. They were so focused on *features* that organization went overlooked. Coupling was rife between modules. New features were often bolted onto the codebase wherever they could be made to fit. To my disillutioned eyes, it looked like many programmers, if they ever cracked open *Design Petterns* at all, never got past **Singleton**."

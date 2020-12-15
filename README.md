@@ -4,4 +4,8 @@ INTRODUCTION
 
 "At first, the challenge was just getting something working. Then, it became figuring out how to write programs bigger than what would fit in my head. Instead of just reading about 'How to program in C++, I started trying to find books about how to *organize* programs.
 
-Fast-forward several years, and a friend hand me a book: *Design Patterns: Elements of Re-usable Objects-Oriented Software*. Finally! The book I'd been looking for since I was a teenager. I read it cover to cover in one sitting. I still struggled with my own programs, but it such a relief to see other people struggled too and came up with solutions. I felt like I finally had a couple of tools to use, instead of just my bear hands."
+Fast-forward several years, and a friend hand me a book: *Design Patterns: Elements of Re-usable Objects-Oriented Software*. Finally! The book I'd been looking for since I was a teenager. I read it cover to cover in one sitting. I still struggled with my own programs, but it such a relief to see other people struggled too and came up with solutions. I felt like I finally had a couple of tools to use, instead of just my bear hands.
+
+In 2001, I landed my dream job: software engineer at Electronic Arts. I couldn't wait to get a look at some real games and see how the pros put them together. What was the architecture like for an enormous game like Madden Football? How did the different systemss interact? How did they get a single code base to run on multiple platforms?
+
+Cracking open the source code was a humbling and suprising experience. There was brilliant code in graphics, AI, animation and visual effects. We had people who knew how to squeeze every last circle out of a CPU and put it to good use. Stuff I didn't even know was *possible*, these people did before lunch."

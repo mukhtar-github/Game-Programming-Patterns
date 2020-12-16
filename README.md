@@ -18,4 +18,14 @@ Unfortunately, 'hiding' was often a good description. There were gems buried in 
 
 That problem is what this book aims to solve. I dug up and polished the best patterns I've found in games, and presented them here so that we can spend our time inventing new things instead of *re*-inventing them.
 
+# What's in Store
+
+There are already dozens of game programming books out there. Why write another?
+
+Most game programming books I've seen fall into one of two categories:
+
+* **Domain-specific books.** These narrowly-focused books give you a deep dive on some specific  aspect of game developement. They'll teach you about 3D graphics, real-time rendering, physics simulation, artificial intelligence, or audio. These are the areas that many game programmers specialize in as there career progress.
+
+* **Whole-engine books.** In contrast, these try to span all of the different parts of an entire game engine. They are oriented towards building a complete engine suited to some specific genre of game, usually a 3D first-person shooter.
+
 "

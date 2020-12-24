@@ -43,5 +43,5 @@ Any programming book with "Patterns" in its name clearly bears a relationship to
 
 > *Design Patterns* itself was in turn inspired by a previuos book. The idea of crafting a language of patterns to describe open-ended solutions to problems comes from [A Pattern Language](https://en.wikipedia.org/wiki), by Christopher Alexander (along with Sara Ishikawa and Murray Silverstein).
 
-Their book
+> Their book was about architecture (like *real* architecture with buildings and walls and stuff), but they hoped others would use the same structure to describe solutions in other fields. *Design Patterns* is the Gang of Four's attempt to that for software.
 "

@@ -31,5 +31,7 @@ Most game programming books I've seen fall into one of two categories:
 I like both of these kinds of books, but I think they leave some gaps. Books specifiic to a domain rarely tell you how that
 chunk of code interacts with the rest of the game. You may be a wizard at physics and rendering, but do you know how to tie them together gracefully?
 
-The second category covers that, but I often find whole-engine books to be too monolithic and too genre-specific. Especially with the rise of mobile and casual gaming, we're in a period where lots of different genres of games are being created. We aren't all just cloning Quake anymore. Books that walk you through a single engine aren't helpful when *your* game doen't fit that mold. 
+The second category covers that, but I often find whole-engine books to be too monolithic and too genre-specific. Especially with the rise of mobile and casual gaming, we're in a period where lots of different genres of games are being created. We aren't all just cloning Quake anymore. Books that walk you through a single engine aren't helpful when *your* game doen't fit that mold.
+
+Instead, what I'm trying to do here is more *á la carte.* Each of the chapters in this book is an independent idea that you can apply to your code. This way, you can mix and match them in a way that works best for the game *you* want to make. 
 "

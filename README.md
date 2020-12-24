@@ -35,6 +35,5 @@ The second category covers that, but I often find whole-engine books to be too m
 
 Instead, what I'm trying to do here is more *á la carte.* Each of the chapters in this book is an independent idea that you can apply to your code. This way, you can mix and match them in a way that works best for the game *you* want to make.
 
-> Another example of this *á la carte* style is the widely beloved [Game 
-> Programming Gems](http://www.satori.org game-programming-gems/) series.
+> Another example of this *á la carte* style is the widely beloved [Game Programming Gems](http://www.satori.org game-programming-gems/) series.
 "

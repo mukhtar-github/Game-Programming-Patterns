@@ -28,4 +28,6 @@ Most game programming books I've seen fall into one of two categories:
 
 * **Whole-engine books.** In contrast, these try to span all of the different parts of an entire game engine. They are oriented towards building a complete engine suited to some specific genre of game, usually a 3D first-person shooter.
 
+I like both of these kinds of books, but I think they leave some gaps. Books specifiic to a domain rarely tell you how that
+chunk of code interacts with the rest of the game. You may be a wizard at physics and rendering, but do you know how to tie them together gracefully?
 "

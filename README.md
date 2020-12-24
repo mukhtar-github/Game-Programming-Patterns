@@ -40,4 +40,8 @@ Instead, what I'm trying to do here is more *á la carte.* Each of the chapters 
 # How it Relates to Design Patterns
 
 Any programming book with "Patterns" in its name clearly bears a relationship to the classic *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (ominiously called the "Gang of Four").
+
+> *Design Patterns* itself was in turn inspired by a previuos book. The idea of crafting a language of patterns to describe open-ended solutions to problems comes from [A Pattern Language](https://en.wikipedia.org/wiki), by Christopher Alexander (along with Sara Ishikawa and Murray Silverstein).
+
+Their book
 "
